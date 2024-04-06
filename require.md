@@ -1,0 +1,6 @@
+"96qbhy/hyperf-auth": "^3.0",
+"hyperf-plus/helper": "^3.0",
+"hyperf-plus/route": "^3.0",
+"hyperf-plus/swagger": "^3.0",
+"hyperf-plus/validate": "^3.0",
+"hyperf/async-queue": "^3.0",

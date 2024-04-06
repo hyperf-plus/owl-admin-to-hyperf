@@ -1,0 +1,7 @@
+/vendor/
+/.env
+/runtime/
+/owl-admin/
+/app/Library/
+/packages/
+/.idea/
