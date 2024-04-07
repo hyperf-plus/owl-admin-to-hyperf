@@ -8,10 +8,10 @@ owl-admin相当强大，但是基于laravel，而hyperf是基于swoole的，两�
 
 # 为什么要用hyperf来做这个后台
 
-后台不需要高性能啊，laravel完全够用了，这个问题我也想过，但是我还是选择了hyperf，原因如下：
+后台不需要高性能，laravel完全够用了，这个问题我也想过，但是我还是选择了hyperf，原因如下：
 
 - 平时api接口基本全都是基于hyperf，需要重新再维护一套laravel的后台，不如直接用hyperf来做。
-- hyperf是基于swoole的，性能比laravel要好很多，而且swoole是未来的趋势，所以我选择了hyperf。
 - 模型、service等等只需要创建一次、极大的减少了重复劳动。
 - 代码风格统一，维护方便。
 - hyperf深度使用者，可以更好的发挥hyperf的优势，开发效率远高于laravel。
+- 归根到底最主要原因就是易维护、方便高效
